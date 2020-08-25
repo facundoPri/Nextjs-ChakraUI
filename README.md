@@ -1,3 +1,5 @@
+By Following [This tutorial](https://youtu.be/6TEo2AxW-oQ) Code/Drop #49 from Rocketseat
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
